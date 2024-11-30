@@ -4,7 +4,7 @@
   <name>bigomni_teleop</name>
   <version>0.0.0</version>
   <description>Package that provides nodes to teleoperate the big omnirobot of BME-IIT</description>
-  <maintainer email="izso.andras.zsolt@gmail.com">András Izsó</maintainer>
+  <maintainer email="izso@iit.bme.hu">iit-robotcsapat</maintainer>
   <license>GPL-3.0-only</license>
 
   <depend>rclcpp</depend>
